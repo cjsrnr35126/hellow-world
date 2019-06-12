@@ -17,7 +17,7 @@ remDr$navigate("https://nid.naver.com/nidlogin.login")
 
 id = remDr$findElement(using="id", value="id")
 
-id$setElementAttribute("value", "cjsrnr35126")
+id$setElementAttribute("value", "***")
 
 Sys.sleep(3)
 
@@ -25,7 +25,7 @@ Sys.sleep(3)
 
 pw = remDr$findElement(using="id", value="pw")
 
-pw$setElementAttribute("value", "4esdfc123!")
+pw$setElementAttribute("value", "***")
 
 Sys.sleep(3)
 
@@ -102,9 +102,9 @@ out
 #t=p$getElementText()
 
 #as.character(t)
-#tt=strsplit(as.character(t),"ÀÌ ÀÛ¼ºÀÚÀÇ °Ô½Ã±Û ´õº¸±â")[[1]][1]
+#tt=strsplit(as.character(t),"ì´ ì‘ì„±ìì˜ ê²Œì‹œê¸€ ë”ë³´ê¸°")[[1]][1]
 #tt
-#cmt=strsplit(as.character(t),"ÀÌ ÀÛ¼ºÀÚÀÇ °Ô½Ã±Û ´õº¸±â")[[1]][2]
+#cmt=strsplit(as.character(t),"ì´ ì‘ì„±ìì˜ ê²Œì‹œê¸€ ë”ë³´ê¸°")[[1]][2]
 #ttt=strsplit(tt,'https://cafe.naver.com/suhui/')[[1]][2]
 #tttt=strsplit(ttt,"\n")[[1]][-1]
 #output=cbind(tt,cmt)
@@ -126,4 +126,4 @@ remDr$close()
 install.packages('devtools')
 devtools::install_github('haven-jeon/KoSpacing')
 library(KoSpacing)
-spacing("±èÇüÈ£¶ó´Â»ç¶÷")
+spacing("ê¹€í˜•í˜¸ë¼ëŠ”ì‚¬ëŒ")
