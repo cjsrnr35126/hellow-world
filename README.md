@@ -51,7 +51,6 @@ KoNLP가 띄어쓰기를 기준으로 단어를 나눈다. 커뮤니티 글 대�
 ----------------------------------
 ## 첫번째 난관 : 띄어쓰기
 <p>KoNLP 사용시 제기되는 가장 큰 문제는 문장이 띄어쓰기로 분류된다는 점이다. 그렇다면 띄어쓰기를 검수해주는 패키지는 없을까? 
- 찾아보니 KoSpacing 이라는 패키지가 있었다. 올바른 맞춤법으로 작성된 문서를 학습시켜서 띄어쓰기를 가능하게 만든다. 
+ 찾아보니 KoSpacing 이라는 패키지가 있었다. 올바른 맞춤법으로 작성된 문서를 학습시켜서 띄어쓰기를 가능하게 만든다. <br>
  여기서 학습시킬 데이터를 말뭉치(=corpus)라고 한다. 찾아낸 방법은 크게 2가지로 'KoSpacing : 한글 자동 띄어쓰기 패키지'를 사용하는 것과 hmm 패키지를 이용한 방법도 존재하였으나 후자는 직접 딥러닝 모델을 돌려야 하므로 패스
-koSpacing에 관련해서는 <a href="https://mrchypark.github.io/post/kospacing-%ED%95%9C%EA%B8%80-%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0-%ED%8C%A8%ED%82%A4%EC%A7%80%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90/">여기</a> 와 <a href="http://freesearch.pe.kr/archives/4759">여기</a>를 참고하였다.
-</p>
+koSpacing에 관련해서는 <a href="https://mrchypark.github.io/post/kospacing-%ED%95%9C%EA%B8%80-%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0-%ED%8C%A8%ED%82%A4%EC%A7%80%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90/">여기</a> 와 <a href="http://freesearch.pe.kr/archives/4759">여기</a>를 참고하였다.</p>
