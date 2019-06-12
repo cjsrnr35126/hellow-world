@@ -46,3 +46,11 @@ KoNLP가 띄어쓰기를 기준으로 단어를 나눈다. 커뮤니티 글 대�
 ![워드 클라우드](https://user-images.githubusercontent.com/49007889/58539895-3ffd0400-8233-11e9-81df-2d065e601178.png)
 
 ![바이 그램](https://user-images.githubusercontent.com/49007889/58539894-3f646d80-8233-11e9-88fa-3baad69a9620.png)
+
+
+
+## 첫번째 난관 : 띄어쓰기
+kospacing
+hmm
+<a href="https://mrchypark.github.io/post/kospacing-%ED%95%9C%EA%B8%80-%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0-%ED%8C%A8%ED%82%A4%EC%A7%80%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90/">여기</a>
+
