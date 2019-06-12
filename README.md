@@ -52,5 +52,6 @@ KoNLP가 띄어쓰기를 기준으로 단어를 나눈다. 커뮤니티 글 대�
 ## 첫번째 난관 : 띄어쓰기
 kospacing
 hmm
-<a href="https://mrchypark.github.io/post/kospacing-%ED%95%9C%EA%B8%80-%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0-%ED%8C%A8%ED%82%A4%EC%A7%80%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90/">여기</a>
+<a href="https://mrchypark.github.io/post/kospacing-%ED%95%9C%EA%B8%80-%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0-%ED%8C%A8%ED%82%A4%EC%A7%80%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90/">여기</a> 와
 
+<a href="http://freesearch.pe.kr/archives/4759">여기</a>
