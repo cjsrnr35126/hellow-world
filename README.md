@@ -67,6 +67,16 @@ koSpacing에 관련해서는 <a href="https://mrchypark.github.io/post/kospacing
 현재 가능한 방법은 모든 텍스트를 가져와서 분류하는 방법인데 댓글 내용의 길이가 일정하지 않고, 몇개의 댓글이 추가될지 모르기 때문에 보류한 상태이다.
 </p>
 
+---------------------
+
+![Rplot](https://user-images.githubusercontent.com/49007889/59394119-861ca080-8db9-11e9-85df-e5dd7b01fb0b.png)
+
+![Rplot01](https://user-images.githubusercontent.com/49007889/59394124-887efa80-8db9-11e9-8e9a-b5c8c5885856.png)
+
+![Rplot02](https://user-images.githubusercontent.com/49007889/59394125-89b02780-8db9-11e9-96ba-289bbf7d4351.png)
+
+![Rplot03](https://user-images.githubusercontent.com/49007889/59394127-8ae15480-8db9-11e9-84ea-165af24bec58.png)
+
 
 
 
