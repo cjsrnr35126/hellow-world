@@ -57,7 +57,7 @@ KoNLP가 띄어쓰기를 기준으로 단어를 나눈다. 커뮤니티 글 대�
  <br>
   'Error in get("model", envir = .KoSpacingEnv) : object 'model' not found ' 
  <br>
- 해결방법을 찾아서 아나콘다를 새로 설치해보고 파이썬으로도 실행해 봤지만 오류는 계속되었다.
+ 'model', 즉 학습된 딥러닝 모델을 불러올 수 없다는 오류였다. 모델을 불러와야 패키지가 돌아갈텐데 어떤 이유에서인지 모르겠다. 아나콘다를 새로 설치해보고 파이썬에서도 실행시켜보려 했지만 실패했다. 찾아본바 딥러닝모델을 윈도우에서 구동하기엔 다소 문제가 많다는 사실만 깨달았다. 
  <br>
 
 koSpacing에 관련해서는 <a href="https://mrchypark.github.io/post/kospacing-%ED%95%9C%EA%B8%80-%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0-%ED%8C%A8%ED%82%A4%EC%A7%80%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90/">여기</a> 와 <a href="http://freesearch.pe.kr/archives/4759">여기</a>를 참고하였다.</p>
@@ -69,6 +69,5 @@ koSpacing에 관련해서는 <a href="https://mrchypark.github.io/post/kospacing
 
 ## 다시 돌아 제자리로
 <p>
-지금은 자연어 처리를 할 수 없으니 데이터의 다양성을 추구해야한다.
-수만휘 말고도 유명한 입시커뮤니티는 어디인가?
+
 </p>
