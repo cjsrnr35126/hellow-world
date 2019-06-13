@@ -84,7 +84,8 @@ koSpacing에 관련해서는 <a href="https://mrchypark.github.io/post/kospacing
 
 
 -----------------------------
-## 결론 및 보완사항
+## 마무리
+
 오르비 title 3만여개, comment 8만여개<br>
 수만휘 title 3000개, 댓글 0 <br>
 
