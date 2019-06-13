@@ -63,11 +63,16 @@ KoNLP가 띄어쓰기를 기준으로 단어를 나눈다. 커뮤니티 글 대�
 koSpacing에 관련해서는 <a href="https://mrchypark.github.io/post/kospacing-%ED%95%9C%EA%B8%80-%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0-%ED%8C%A8%ED%82%A4%EC%A7%80%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90/">여기</a> 와 <a href="http://freesearch.pe.kr/archives/4759">여기</a>를 참고하였다.</p>
 
 ## 두번째 난관 
+
+![제목 없음](https://user-images.githubusercontent.com/49007889/59394214-d0058680-8db9-11e9-8bac-66cf7c1463c3.png)
+
 <p>데이터의 다양성을 확보하기위해서 수만휘 게시글 크롤링을 시도하였다. 시드넘버, 닉네임, 제목을 크롤링하는것은 성공했으나 댓글을 읽어오는과정에서 발생한 에러를 아직까지 해결하지 못했다. 목표가 댓글공작여부를 확인하는건데 댓글 데이터가 없다. <br>
 현재 가능한 방법은 모든 텍스트를 가져와서 분류하는 방법인데 댓글 내용의 길이가 일정하지 않고, 몇개의 댓글이 추가될지 모르기 때문에 보류한 상태이다.
 </p>
 
----------------------
+------------------------
+
+
 
 ![Rplot](https://user-images.githubusercontent.com/49007889/59394119-861ca080-8db9-11e9-85df-e5dd7b01fb0b.png)
 
@@ -78,8 +83,11 @@ koSpacing에 관련해서는 <a href="https://mrchypark.github.io/post/kospacing
 ![Rplot03](https://user-images.githubusercontent.com/49007889/59394127-8ae15480-8db9-11e9-84ea-165af24bec58.png)
 
 
-
-
+-----------------------------
 ## 결론 및 보완사항
+오르비 title 3만여개, comment 8만여개<br>
+수만휘 title 3000개, 댓글 0 <br>
+
+댓글을 비교해보아야 공작의 특징을 잡아낼수 있을 것이다.<br>
 
 
